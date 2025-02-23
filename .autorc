@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Davidby2005",
+  "repo": "container-kdc-ooa",
+  "name": "Davidby2005",
+  "email": "ctm29sep@gmail.com",
+}
